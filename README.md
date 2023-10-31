@@ -77,7 +77,7 @@
 
 ### 선박 대기 사간의 분포
 
-<img width="688" alt="1-2" src="[https://github.com/cav2280/bigcontest/assets/139084776/144388cb-0653-4f1a-93f1-93287595dc29](https://user-images.githubusercontent.com/139084654/279420042-a1e66da0-6650-4bb7-ad67-ce8eb521cb80.png)">
+<img width="688" alt="1-2" src="https://user-images.githubusercontent.com/139084654/279420042-a1e66da0-6650-4bb7-ad67-ce8eb521cb80.png">
 
 
 ### 모델선정
