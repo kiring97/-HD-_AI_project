@@ -76,9 +76,7 @@
 -------------------------------------
 
 ### 선박 대기 사간의 분포
-
-[<img width="688" alt="1-2" src="[https://user-images.githubusercontent.com/139084654/279420042-a1e66da0-6650-4bb7-ad67-ce8eb521cb80.png](https://user-images.githubusercontent.com/139084654/279420042-a1e66da0-6650-4bb7-ad67-ce8eb521cb80.png)">
-](https://user-images.githubusercontent.com/139084654/279420042-a1e66da0-6650-4bb7-ad67-ce8eb521cb80.png)
+<img width="878" alt="train_CI_HOUR" src="https://github.com/kiring97/-HD-_AI_project/assets/139084654/a4e525a5-186c-4fa6-8b2c-c4170864441f">
 
 ### 모델선정
 
