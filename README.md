@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=300&section=header&text=데이콘XHD%20RookieMa%20팀&fontSize=70)
 
 ### 데이터 출처
-예술의 전당 데이터를 사용
+데이콘 조선해양 배포 데이터 사용 
 -------------------------------
 
 
