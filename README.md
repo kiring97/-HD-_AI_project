@@ -103,7 +103,7 @@
 -------------------------------------
 
 ### 성능 결과
-
+![공유코드 결과 ](https://github.com/kiring97/-HD-_AI_project/assets/139084722/ffb3d95a-f4f4-46f6-a3cf-fd887691da7c)
 
 
 
