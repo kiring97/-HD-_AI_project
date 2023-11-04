@@ -102,8 +102,16 @@
 
 -------------------------------------
 
-### 성능 결과
+### 결과
+
+## 성능 결과
+
 ![공유코드 결과 ](https://github.com/kiring97/-HD-_AI_project/assets/139084722/ffb3d95a-f4f4-46f6-a3cf-fd887691da7c)
+
+## 예측 결과
+
+<img width="763" alt="result" src="https://github.com/kiring97/-HD-_AI_project/assets/139084654/c4da5f1e-1450-437e-807b-ffe35f6f4531">
+
 
 
 
